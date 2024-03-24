@@ -18,6 +18,6 @@ Lista proposta praticar os conceitos sobre <b>pilhas</b> aprendidos em sala.
 <b>Respostas<br>
   
 </b>Exercícios 1 e 2 estão compartilhados de forma privada no oneDrive<b><br>
--> Exercício 3<br>
-[Exercício 4](https://github.com/leo-gremes-ads/ED_S05_E04_Converte-Binario-Pilha)
+[Exercício 3](https://github.com/leo-gremes-ads/ED_S05_E03_Pilhas-Int-Strings)<br>
+-> Exercício 4
 </b>
